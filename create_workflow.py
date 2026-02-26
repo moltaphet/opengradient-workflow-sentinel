@@ -3,7 +3,7 @@ import opengradient as og
 
 # --- NETWORK CONFIGURATION ---
 os.environ["OPENGRADIENT_ENV"] = "alpha"
-PRIVATE_KEY = "your pv key "
+PRIVATE_KEY = "fcf808d47c24145f7bb80a3dc1fe512c834489cf7d39c33cb587cf03a86eedc6"
 
 def deploy_workflow_instance():
     """

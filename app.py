@@ -71,3 +71,31 @@ st.sidebar.title("System Status")
 st.sidebar.success("Network: OpenGradient Alpha")
 st.sidebar.info(f"Last Scan: {datetime.now().strftime('%H:%M:%S')}")
 st.sidebar.markdown("Built with `opengradient-sdk`")
+
+# --- SOCIAL LINKS IN SIDEBAR ---
+
+with st.sidebar:
+
+    st.markdown("---")
+
+    st.subheader("🔗 Connect with Developer")
+
+    
+
+    # Replace these with your actual links
+
+    github_url = "https://github.com/moltaphet"
+
+    twitter_url = "https://x.com/0xehs4hn" 
+
+    
+
+    st.link_button("📂 View GitHub Repository", github_url, use_container_width=True)
+
+    st.link_button("🐦 Follow on Twitter / X", twitter_url, use_container_width=True)
+
+    
+
+    st.markdown("---")
+
+    st.caption(f"© {datetime.now().year} | Built for OpenGradient Alpha")
