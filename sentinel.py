@@ -5,7 +5,7 @@ import opengradient as og
 
 # --- CONFIGURATION ---
 os.environ["OPENGRADIENT_ENV"] = "alpha"
-PRIVATE_KEY = "fcf808d47c24145f7bb80a3dc1fe512c834489cf7d39c33cb587cf03a86eedc6"
+PRIVATE_KEY = ""
 
 def run_sentinel():
     """
