@@ -1,7 +1,3 @@
-This tool was developed to ensure infrastructure reliability for decentralized AI. It focuses on high-level monitoring to provide developers with immediate feedback on the health of their on-chain assets.
-
-=======
-
 # 🛡️ OpenGradient Infrastructure & Workflow Monitor
 
 An advanced diagnostic suite designed for the **OpenGradient Alpha Network**. This tool provides real-time visibility into on-chain AI workflows, operator health, and decentralized infrastructure stability.
@@ -55,5 +51,6 @@ pip install opengradient
 python3 monitor.py
 
 ```
+
 
 
