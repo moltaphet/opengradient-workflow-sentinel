@@ -57,7 +57,3 @@ python3 monitor.py
 ```
 
 
-## 📝 Project Context
-
-This tool was developed to ensure infrastructure reliability for decentralized AI. It focuses on high-level monitoring to provide developers with immediate feedback on the health of their on-chain assets.
->>>>>>> Stashed changes
